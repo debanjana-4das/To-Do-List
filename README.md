@@ -23,7 +23,7 @@ A simple yet powerful *To-Do List* application built using *HTML, CSS, and JavaS
 
 1. *Clone the Repository*  
    sh
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/debanjana-4das/todo-list.git
    cd todo-list
    
 2. **Open the index.html file** in any browser.  
